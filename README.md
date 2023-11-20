@@ -15,19 +15,14 @@
 💬 You can ask me about **Hosts, MySQL, BukkitAPI, Unity... or anything [here](https://discord.gg/7cM2Xn3SCe)**
 
  </div>
- 
-<div align="center"> 
-  <a href="mailto:xm7mgomoko123goko@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-</div>
 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,java,html,docker,vscode,github,ae,cs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,eclipse,mysql,ps,unity,cloudflare,mongodb" /><br>
 </div>
 
 <br/>
