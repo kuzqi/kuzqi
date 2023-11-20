@@ -1,22 +1,18 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=guest2763.guest2763" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+O16!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A C# and Java developer from Syria</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **a **
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **about Unity engine and C# lang**
 
-💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 You can ask me about **Hosts, MySQL, BukkitAPI, Unity... or anything [here](https://discord.gg/7cM2Xn3SCe)**
 
  </div>
  
