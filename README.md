@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working in **Minecraft server that called SpiritsMC and Myself**
+ 🔭 I’m currently working in **Minecraft server**
  
  🌱 I’m currently learning **about Unity engine and C# lang**
 
