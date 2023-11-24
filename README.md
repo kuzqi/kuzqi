@@ -21,8 +21,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,java,html,docker,vscode,github,ae,cs" />
-    <img src="https://skillicons.dev/icons?i=dotnet,eclipse,mysql,ps,unity,cloudflare,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=react,java,html,docker,vscode,github,cs" />
+    <img src="https://skillicons.dev/icons?i=dotnet,eclipse,mysql,unity,cloudflare,mongodb" /><br>
 </div>
 <br/>
 <hr/>
