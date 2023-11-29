@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 💎 Don't chase your dream, force it to come to you.
+ 💎 It doesn't deserve all that, just chill.
  
  🌱 I’m currently learning **about Unity engine and C# lang**
 
