@@ -1,4 +1,4 @@
 # Hi there 👋 I'm kuzqi!
 
 ## Skills
-[![My Skills](https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java)](https://skillicons.dev)
