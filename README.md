@@ -4,7 +4,7 @@
 ![My Skills](https://skillicons.dev/icons?i=cs,java,js,css,html,mysql,eclipse,vscode,unity,rider)
 
 ## Contact
-![My Skills](https://skillicons.dev/icons?i=discord)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/NJzk4x2TWp)
 
 ## Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzqi&layout=compact&langs_count=5"/>
