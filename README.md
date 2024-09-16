@@ -8,4 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kuzqi_/)
 
 ## Stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzqi&layout=compact&langs_count=5"/>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzqi&layout=compact&langs_count=5"/>
