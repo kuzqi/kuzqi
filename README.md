@@ -1,7 +1,7 @@
 # Hi there 👋 I'm kuzqi!
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=java,cs,js,css,html,mysql,eclipse,vscode,unity,rider)
+![My Skills](https://skillicons.dev/icons?i=java,cs,mysql,eclipse,vscode,unity,rider)
 
 ## Contact
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/NJzk4x2TWp)
