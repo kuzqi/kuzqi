@@ -1,5 +1,3 @@
-# Hi there 👋 I'm kuzqi!
-
 ## Skills
 ![My Skills](https://skillicons.dev/icons?i=java,cs,mysql,eclipse,vscode,rider,unity)
 
