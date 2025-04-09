@@ -1,5 +1,5 @@
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=java,cs,mysql,eclipse,vscode,rider,unity)
+![My Skills](https://skillicons.dev/icons?i=java,cpp,cs,mysql,arduino,eclipse,vscode,rider,unity)
 
 ## Contact
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1281934695285915700)
